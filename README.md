@@ -11,14 +11,18 @@ Estou ansioso para continuar explorando as fronteiras dos dados e contribuir ain
 
 <h3>Habilidades Técnicas:</h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Spark" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="GCP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
-          
+  <img align="center" alt="Databriks" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" />
+  <img align="center" alt="Spark" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+  <img align="center" alt="Hadoop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="Microstrategy" height="40" width="40" src="https://microstrategy.github.io/Images/microstrategy-logo_small.png" />        
   <img align="center" alt="PowerBI" height="30" width="25" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" />
+  <img align="center" alt="GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+          
   
-  <img align="center" alt="Microstrategy" height="40" width="40" src="https://microstrategy.github.io/Images/microstrategy-logo_small.png" />
+
 
 </div>
   
@@ -50,7 +54,10 @@ Estou ansioso para continuar explorando as fronteiras dos dados e contribuir ain
   <!-- MSTR -->
   <img align="center" alt="ARQUITETO MSTR" height="100" width="95" src="https://templates.images.credential.net/16673987859842744977930091770866.png"/>
   <img align="center" alt="ADM MSTR" height="100" width="95" src="https://templates.images.credential.net/16673973909619016633457283696747.png"/>
-   
+    <!-- SCRUM -->
+  <img align="center" alt="Professional Scrum Master I certification logo" height="100" width="95" src="https://static.scrum.org/web/badges/badge-09173b39-cedf-4321-88b6-ce0acdfb5a70.svg"/>
+  <img align="center" alt="Professional Scrum Master II certification logo" height="100" width="95" src="https://static.scrum.org/web/badges/badge-dd91d4dd-f590-4a51-ab9e-9d7e3aa866a6.svg"/> 
+  <img align="center" alt="Professional Scrum Developer™ Certification | Scrum.org" height="100" width="95" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2022-09/asset_39psd.png"/> 
 </div>
 
   ##
