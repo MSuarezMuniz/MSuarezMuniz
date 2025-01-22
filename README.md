@@ -1,12 +1,10 @@
-<h1 align="center">Olá! Eu sou o Michael  Data Engineer👋</h1>
+<h1 align="center">Olá, sou o Michael! Engenheiro de Dados apaixonado por transformar dados em soluções inovadoras 👋</h1>
 
-Com uma paixão duradoura pelo universo dos Dados, acumulei 12 anos de experiência no mercado financeiro, colaborando com organizações de renome como Banco Carrefour, Banco Safra, Bradesco e Banco Central do Brasil. Durante essa jornada, mergulhei em projetos de Business Intelligence (BI) e Big Data, desempenhando papéis diversos, desde liderança técnica até gestão de projetos e equipes.
+Com mais de 12 anos de experiência no mercado financeiro, tive o privilégio de colaborar com grandes nomes como Banco Carrefour, Banco Safra, Bradesco e Banco Central do Brasil. Ao longo dessa trajetória, me especializei em Business Intelligence (BI) e Big Data, sempre focado em criar soluções de dados que impactam diretamente a tomada de decisões estratégicas.
 
-Minha trajetória é marcada pela busca incessante pela excelência na análise e utilização de dados, sempre comprometido em extrair insights valiosos que impulsionem a tomada de decisões estratégicas. Ao longo dos anos, desenvolvi habilidades sólidas em navegar pelas complexidades dos sistemas de dados, implementando soluções inovadoras e garantindo a entrega de resultados consistentes.
+Minha experiência é marcada pela combinação de liderança técnica, gestão de projetos e desenvolvimento de soluções que resolvem problemas complexos de dados. Desde a implementação de sistemas de análise até a condução de equipes multidisciplinares, meu objetivo sempre foi garantir a entrega de resultados consistentes e inovadores.
 
-Combinando conhecimento técnico com uma visão estratégica, estive na vanguarda da transformação digital, liderando equipes multidisciplinares rumo à excelência em análise de dados e implementação de soluções eficazes. Minha experiência diversificada me proporcionou uma compreensão abrangente dos desafios e oportunidades presentes no cenário do mercado financeiro, capacitando-me a enfrentar os mais complexos problemas com criatividade e determinação.
-
-Estou ansioso para continuar explorando as fronteiras dos dados e contribuir ainda mais para o avanço e sucesso das organizações com as quais colaboro.
+Tenho um forte compromisso com a excelência na análise de dados, usando minha expertise para transformar dados brutos em insights valiosos, essenciais para a transformação digital e o crescimento das organizações. Estou constantemente buscando aprimorar minhas habilidades e explorar novas fronteiras do universo dos dados, para contribuir ativamente para o sucesso das equipes e empresas com as quais colaboro.
 
 
 <h3>Habilidades Técnicas:</h3>
